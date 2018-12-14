@@ -13,4 +13,4 @@ package-lock.json
 *.ntvs*
 *.njsproj
 *.sln
-README.en.md
+/Author.md
